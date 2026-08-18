@@ -1,9 +1,8 @@
 <div align="center">
 
-# Vault+
+<img src="assets/banner.png" alt="Vault+ — Tu gestor de contraseñas, cifrado de punta a punta" width="100%">
 
-**Tu gestor de contraseñas, cifrado de punta a punta.**
-Para Windows y Android.
+### Para Windows y Android
 
 [![Descargar](https://img.shields.io/badge/Descargar-última_versión-6C63FF?style=for-the-badge)](https://github.com/Litdemonick/vault-plus-releases/releases/latest)
 
