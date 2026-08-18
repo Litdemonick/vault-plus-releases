@@ -47,10 +47,10 @@ La app avisa sola cuando hay una versión nueva, y podés comprobarlo cuando qui
 
 ## Verificar la descarga
 
-Cada release trae un `SHA256SUMS.txt` con la huella de cada archivo. No hay una tienda de por medio comprobándolos, así que la comprobación es tuya:
+Cada release trae un `verificacion-sha256.txt` con la huella de cada archivo. No hay una tienda de por medio comprobándolos, así que la comprobación es tuya:
 
 ```powershell
-Get-FileHash .\VaultPlus-1.0.0-windows-setup.exe -Algorithm SHA256
+Get-FileHash .\VaultPlus-1.0.5-windows-setup.exe -Algorithm SHA256
 ```
 
 Si el resultado no coincide con el del archivo, **no lo instales**.
