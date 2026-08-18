@@ -1,0 +1,7 @@
+{
+  "_comment": "Lista de licencias revocadas, firmada por el dueño. La app la lee para dejar de funcionar en equipos cuyo acceso fue retirado. Este archivo se genera desde la herramienta de licencias (Publicar revocaciones) y se reemplaza entero; no se edita a mano.",
+  "version": 1,
+  "issuedAt": null,
+  "revoked": [],
+  "signature": null
+}
