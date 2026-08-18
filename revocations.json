@@ -1,10 +1,11 @@
 {
   "list": {
     "v": 1,
-    "at": "2026-08-18T11:42:53.857807Z",
+    "at": "2026-08-18T11:43:02.040936Z",
     "revoked": [
+      "VP-0001",
       "VP-0002"
     ]
   },
-  "sig": "2dhKpKbO5S9tP2KlYwSc9FYW1U2zENEGWDA4wrSDtrbqr8O6bNau4rJwFfkl4Z9RFJBj1Leim4O5nZIjHrOsDw=="
+  "sig": "FdZ9J4U2cAzCjWBHQhUTBkxwc6CrSokr/BLARMMuH4jqWS4Nmj6sNe3tBUjKw2giP9WZjNCLKR3I0YslfWubAA=="
 }
