@@ -1,0 +1,6 @@
+{
+  "_comment": "La clave PÚBLICA del dueño de Vault+. Publicarla es seguro y necesario: sirve para comprobar firmas, nunca para crearlas — la privada no sale de la máquina del dueño. La herramienta de licencias la consulta para saber que ya existe un par de claves, y así impedir que en otra computadora se cree uno nuevo por error, que produciría licencias que ninguna app aceptaría.",
+  "version": 1,
+  "publicKey": "r9DwJcnKFgyQ2v1Z8wXPB8jiRa1jkAElmZGH7u3/cFE=",
+  "createdAt": "2026-08-18"
+}
